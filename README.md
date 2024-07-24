@@ -25,3 +25,9 @@ Instructions:
 5. Enter your username and PIN to access your account.
 6. Select the desired operation (withdrawal, deposit, balance inquiry, transfer funds) and follow the prompts to complete the transaction.
 7. Logout securely after completing your transactions.
+
+
+Application Images
+![atm](https://github.com/user-attachments/assets/f83efa68-235d-43a1-8e82-c8aca608b5f5)
+![a](https://github.com/user-attachments/assets/fb87e1aa-cc78-4ef1-ba71-145e3696d09c)
+
